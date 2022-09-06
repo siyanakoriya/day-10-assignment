@@ -35,7 +35,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HarshadNumber">
+  <component name="RunManager" selected="Application.AutomorphicNumber">
+    <configuration name="AutomorphicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AutomorphicNumber" />
+      <module name="day-10-assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HarshadNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HarshadNumber" />
       <module name="day-10-assignment" />
@@ -66,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AutomorphicNumber" />
         <item itemvalue="Application.HarshadNumber" />
         <item itemvalue="Application.PerfectSquare" />
         <item itemvalue="Application.StrongNumber" />
