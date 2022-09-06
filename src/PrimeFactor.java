@@ -13,6 +13,7 @@ public class PrimeFactor {
             while (number % i == 0) {
                 System.out.println(i + " ");
                 number = number / i;
+
             }
         }
         if (number > 2) {
