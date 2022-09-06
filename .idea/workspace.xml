@@ -35,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AbundantNumber">
+  <component name="RunManager" selected="Application.FriendlyPair">
     <configuration name="AbundantNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbundantNumber" />
       <module name="day-10-assignment" />
@@ -45,6 +45,13 @@
     </configuration>
     <configuration name="AutomorphicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AutomorphicNumber" />
+      <module name="day-10-assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FriendlyPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FriendlyPair" />
       <module name="day-10-assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,20 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StrongNumber" />
-      <module name="day-10-assignment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FriendlyPair" />
         <item itemvalue="Application.AbundantNumber" />
         <item itemvalue="Application.AutomorphicNumber" />
         <item itemvalue="Application.HarshadNumber" />
         <item itemvalue="Application.PerfectSquare" />
-        <item itemvalue="Application.StrongNumber" />
       </list>
     </recent_temporary>
   </component>
